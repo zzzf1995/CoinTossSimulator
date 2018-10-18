@@ -1,8 +1,3 @@
-// Name: Yichuan Zhao
-// USC NetID: 3322297563
-// CS 455 PA1
-// Fall 2018
-
 /**
  * class CoinTossSimulator
  * 
