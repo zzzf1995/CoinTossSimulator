@@ -1,7 +1,3 @@
-// Name: Yichuan Zhao
-// USC NetID: 3322297563
-// CS 455 PA1
-// Fall 2018
 
 //import the statements to draw the bar outlook 
 import java.awt.Graphics;
